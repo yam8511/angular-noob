@@ -1,3 +1,6 @@
+# angular-noob
+練習AngularJS - [教程](https://angular.cn/tutorial)
+
 # Myapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
